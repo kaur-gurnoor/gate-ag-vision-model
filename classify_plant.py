@@ -1,5 +1,3 @@
-# Generative AI was used to help debugg this code
-
 import cv2
 import numpy as np
 import sys
